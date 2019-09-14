@@ -11,8 +11,8 @@ body {
     align-items: center;
 }
 .header__img{
-    width: 200px;
-    margin-top: 10px;
+    width: 150px;
+    margin-top: 60px;
     margin-left: 10px;
 }
 .header__menu{
@@ -113,6 +113,13 @@ body {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
+}
+.login__container--img {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 }
 .login__container--form {
     display: flex;
